@@ -20,7 +20,7 @@ pip install pygame
 
 1. Run the game by executing the following command:
 ```bash
-python main.py
+python pacman.py
 ```
 2. Use the arrow keys to control Pacman's movement: up, down, left, and right.
 
