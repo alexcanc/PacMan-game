@@ -15,14 +15,13 @@ git clone https://github.com/your-username/pacman-game.git
 2. Install the required dependencies by running the following command:
 ```bash
 pip install pygame
-```bash
-python main.py
 ```
 ## How to Play
 
 1. Run the game by executing the following command:
+```bash
 python main.py
-
+```
 2. Use the arrow keys to control Pacman's movement: up, down, left, and right.
 
 3. The goal is to eat all the pellets in the maze while avoiding the ghosts. If Pacman collides with a ghost, a life is lost.
