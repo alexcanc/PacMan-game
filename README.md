@@ -10,6 +10,10 @@ Pacman is a classic arcade game where the player controls a character named Pacm
 
 1. Clone the repository to your local machine using the following command:
 
+2. Install the required dependencies by running the following command:
+```bash
+pip install pygame
+
 ## How to Play
 
 1. Run the game by executing the following command:
